@@ -1,0 +1,12 @@
+ abstract class status_api {}
+ class intial_status extends status_api{}
+ class changescreen_status extends status_api{}
+ class error_status extends status_api{}
+ class busnisse_status extends status_api{}
+ class sport_status extends status_api{}
+ class science_status extends status_api{}
+ class getdata_status extends status_api{}
+ class thememode_status extends status_api{}
+ class iconmode_status extends status_api{}
+ class search_status extends status_api{}
+ class searchgetdata_status extends status_api{}
